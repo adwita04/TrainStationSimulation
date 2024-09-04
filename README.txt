@@ -29,6 +29,3 @@ Name: Adwita Deshpande
 Roll no.: 2203303
 Branch: Mathematics and computing
 
-Name: V.Nikita Sairam
-Roll no.: 2003329
-Branch: Mathematics and computing
